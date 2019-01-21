@@ -1,0 +1,45 @@
+body {
+    background-color: lightskyblue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.myFrame {
+    margin: 20px 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
+    width: 50%;
+    background-color: darkgray;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px 1px #888888;
+
+}
+
+.myForm {
+    margin: 10px 20px 10px 20px;
+    padding: 20px 20px 20px 20px;
+    border-radius: 10px;
+    background-color: #dddddd;
+    box-shadow: 3px 3px 20px 1px black;
+}
+.formError {
+    display: none;
+    background-color: lightpink;
+    color: red;
+    border-radius: 3px;
+}
+.formSubmit {
+    display: none;
+    background-color: lightgreen;
+    color: darkgreen;
+    border-radius: 3px;
+}
+.formField {
+    padding: 10px;
+}
+.formButton {
+    font-size: 20px;
+    padding: 10px;
+}
