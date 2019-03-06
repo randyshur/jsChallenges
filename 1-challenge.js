@@ -1,5 +1,4 @@
-// Challenge 1 Palindrome
-
+// Challenge 1 Palindromes
 /*
 1. create a function that takes in a parameter
 2. create a way to check if the parameter entered is in fact a palindrome.
